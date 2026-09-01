@@ -1,17 +1,17 @@
 # Sales-Business-Analytics-PowerBI
 Power BI dashboard showcasing sales and business data visualization and analysis.
 
-## 📊 Project Overview
+## Project Overview
 
 A Power BI dashboard created to visualize and analyze sales and business data.
 
 The dashboard presents key information across sales, transactions, quantity, pricing, customer ratings, payment methods, cities, and mobile models.
 
-## 🛠️ Tool Used
+## Tool Used
 
 - Microsoft Power BI
 
-## 📈 Dashboard Analysis
+## Dashboard Analysis
 
 The dashboard visualizes:
 
@@ -24,11 +24,11 @@ The dashboard visualizes:
 - City-wise analysis
 - Mobile model analysis
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 
 ![Sales & Business Analytics Dashboard](Dashboard_Screenshot.png)
 
-## 👩‍💻 Author
+## Author
 
 **Neha Goyal**
 
