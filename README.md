@@ -26,7 +26,7 @@ The dashboard visualizes:
 
 ## Dashboard Preview
 
-![Sales & Business Analytics Dashboard](Dashboard_Screenshot.png)
+![Power BI Dashboard](Power%20BI%20dashboard.jpeg)
 
 ## Author
 
