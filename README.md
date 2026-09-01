@@ -1,6 +1,5 @@
 # Sales-Business-Analytics-PowerBI
 Power BI dashboard showcasing sales and business data visualization and analysis.
-# Sales & Business Analytics Dashboard | Power BI
 
 ## 📊 Project Overview
 
